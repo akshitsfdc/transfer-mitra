@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "transfer-wale": {
+      "hosting": {
+        "transfer-mitra": [
+          "transfer-wale"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "transfer-wale"
+  }
+}
